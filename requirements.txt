@@ -7,3 +7,4 @@ xgboost
 statsmodels
 tsfresh
 setuptools
+plotly
