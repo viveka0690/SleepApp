@@ -4,3 +4,4 @@ streamlit
 seaborn
 scikit-learn
 xgboost
+statsmodels
