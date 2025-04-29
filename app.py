@@ -1614,7 +1614,7 @@ if __name__ == '__main__':
         })
         
         # Save sample data
-        data.to_csv("H:/ai_work/FITBIT_SLeepTracker/sample_health_data.csv", index=False)
+        data.to_csv("sample_health_data.csv", index=False)
         print("Sample data saved to 'sample_health_data.csv'")
         
         # Load data
